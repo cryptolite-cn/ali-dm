@@ -2,7 +2,7 @@
 
 - 安装
 ```
-composer require jianzi0307/ali-dm
+composer require cryptolite-cn/ali-dm
 ```
 
 - API
