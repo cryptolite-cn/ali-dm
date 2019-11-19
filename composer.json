@@ -1,10 +1,23 @@
 {
-    "name": "jianzi0307/ali-dm",
-    "authors": [
-        {
-            "name": "jianzi0307",
-            "email": "jianzi0307@qq.com"
-        }
-    ],
-    "require": {}
+  "name": "jianzi0307/ali-dm",
+  "description": "aliyun direct mail sdk.",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Jian Jiang",
+      "email": "jianzi0307@qq.com"
+    }
+  ],
+  "minimum-stability": "beta",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "cn\\cryptolite\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0.0"
+  }
 }
