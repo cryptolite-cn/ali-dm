@@ -10,7 +10,7 @@
       "email": "jianzi0307@qq.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "beta",
   "prefer-stable": true,
   "autoload": {
     "psr-4": {
